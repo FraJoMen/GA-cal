@@ -1,0 +1,8 @@
+#____Parameter's_GA_regression_problem____________
+number_individual__N_POP,500
+problem_dimension__P_dim,8
+numero_di_iterate__N_ITER,20
+numero_di_Elite__N_E,5
+rat_di_accopiamento__N_F,0.5
+coeff_mutazione_fin._mu_en,0.1
+coeff_mutazione_ini._mu_in,0.5

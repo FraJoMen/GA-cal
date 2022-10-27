@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1584209018 source:d:\francisco\lavori\gar-code\release_1\ga-cal source code\main.f90
+
+1643982415 source:d:\francisco\lavori\gar-code\release_1\ga-cal source code\read_input.f90
+
+1643980850 source:d:\francisco\lavori\gar-code\release_1\ga-cal source code\create_pop.f90
+
+1637146455 source:d:\francisco\lavori\gar-code\release_1\ga-cal source code\evaluate_pop.f90
+
+1643980898 source:d:\francisco\lavori\gar-code\release_1\ga-cal source code\write_out.f90
+
+1662709601 source:d:\francisco\lavori\gar-code\release_1\ga-cal source code\ga-cal_main.f90
+
+1643982415 source:d:\francisco\lavori\ga-cal\release_1\ga-cal source code\read_input.f90
+
+1663150341 source:d:\francisco\lavori\ga-cal\release_1\ga-cal source code\evaluate_pop.f90
+
+1643980898 source:d:\francisco\lavori\ga-cal\release_1\ga-cal source code\write_out.f90
+
+1662733540 source:d:\francisco\lavori\ga-cal\release_1\ga-cal source code\create_pop.f90
+
+1663162285 source:d:\francisco\lavori\ga-cal\release_1\ga-cal source code\ga-cal_main.f90
+

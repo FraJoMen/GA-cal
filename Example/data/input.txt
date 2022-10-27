@@ -1,0 +1,13 @@
+#_____________Input_data_parameter_______________
+Number_EDOTest,2
+Number_TxDTest,3
+Integratio_step,100
+Weight_OE,1
+Weight_TD_q,1
+Weight_TD_e,1
+data_TD,TD_data.txt
+data_OE,OE_data.txt
+data_Domainfile,Domain.txt
+data_GAsetup,GA_setup.txt
+data_OE_init,init_OE.txt
+data_TD_init,init_TD.txt
