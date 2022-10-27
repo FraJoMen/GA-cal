@@ -1,4 +1,6 @@
 # GA-cal
+[![DOI](https://zenodo.org/badge/537369162.svg)](https://zenodo.org/badge/latestdoi/537369162)
+
 GA-cal is a Fortran software for automatically calibrating constitutive laws using Genetic Algorithms (GA) optimization. The proposed approach sets the calibration problem as a regression, and the GA optimization is used to adjust the model parameters so that a numerical model matches experimental data. Currently, the code allows the calibration of the Sand Hypoplastic law (SH), proposed by von Wolffersdorff, with the oedometer (OE) and triaxial drained (TD) test data. The implemented subroutines can be easily extended to solve other regression or optimization problems, including different tests and constitutive models.
 
 The basic steps in using the code are:
