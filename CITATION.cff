@@ -4,8 +4,11 @@ authors:
     given-names: Francisco José
     orcid: https://orcid.org/0000-0002-3899-1685
   - family-names: Mendez
-    given-names: Francisco José
-    orcid: https://orcid.org/0000-0002-3899-1685
+    given-names: Miguel Alfonso
+    orcid: https://orcid.org/0000-0002-1115-2187
+  - family-names: Pasculli
+    given-names: Antonio
+    orcid: https://orcid.org/0000-0002-0427-6771
 title: "GA-cal"
 version: v0.0.0
 doi: 10.5281/zenodo.7258093
