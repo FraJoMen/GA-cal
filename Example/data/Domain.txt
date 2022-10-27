@@ -1,9 +1,0 @@
-#____Parameter's_domain_for_Sand_Hypoplasticity___
-phi,25,40,#deg
-hs,1.00,9.00,#GPa
-n,0.20,0.40,#-
-ec0,0.6,1.1,#-
-alpha,0.05,0.30,#-
-beta,1.00,2.00,#-
-rat_ed,0.53,0.6,#lambda_d
-rat_ei,1.05,1.30,#lambda_i
