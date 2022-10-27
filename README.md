@@ -12,7 +12,7 @@ The basic steps in using the code are:
 
 In the GitHub repository, you will find the following:
   1. a copy of the **User manual** can also be downloaded from the website .... If you use GA-cal, please cite this reference in your work (books, articles, reports, etc.).
-  2. the **GA-cal Source code** folder contains the files necessary for compiling the program and creating the executable file. In particular, the folder contains the project developed with the Code::Blocks environment and the Fortran code. The compilation has been tested and developed using Gfortran. 
+  2. the **GA-cal Source code** folder contains the files necessary for compiling the program and creating the executable. In particular, the folder contains the project developed with the [Code::Blocks](https://www.codeblocks.org/) environment and the Fortran code. The compilation has been tested and developed using [gfortran](https://gcc.gnu.org/wiki/GFortran). 
   3. the folder **Examples** contains material helpful in familiarizing and getting started with GA-cal.
 
 ## Reference articles
