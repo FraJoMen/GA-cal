@@ -3,6 +3,10 @@ authors:
   - family-names: Mendez
     given-names: Francisco José
     orcid: https://orcid.org/0000-0002-3899-1685
+authors:
+  - family-names: Mendez
+    given-names: Francisco José
+    orcid: https://orcid.org/0000-0002-3899-1685
 title: "GA-cal"
 version: v0.0.0
 doi: 10.5281/zenodo.7258093
