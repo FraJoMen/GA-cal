@@ -13,6 +13,6 @@ In the GitHub repository, you will find the following:
   2. the **GA-cal Source code** folder contains the files necessary for compiling the program and creating the executable file. In particular, the folder contains the project developed with the Code::Blocks environment and the Fortran code. The compilation has been tested and developed using Gfortran. 
   3. the folder **Examples** contains material helpful in familiarizing and getting started with GA-cal.
 
-## Reference articles.
+## Reference articles
 
   - F. J. Mendez, A. Pasculli, M. A. Mendez, N. Sciarra, *Calibration of a hypoplastic model using genetic algorithms*, Acta Geotechnica 16 (2021) 2031–2047. [https://doi.org/10.1007/s11440-020-01135-z](https://doi.org/10.1007/s11440-020-01135-z) 
