@@ -20,3 +20,5 @@ In the GitHub repository, you will find the following:
 If you use GA-cal, please cite this reference in your work (books, articles, reports, etc.)
  
   - F. J. Mendez, A. Pasculli, M. A. Mendez, N. Sciarra, *Calibration of a hypoplastic model using genetic algorithms*, Acta Geotechnica 16 (2021) 2031–2047. [https://doi.org/10.1007/s11440-020-01135-z](https://doi.org/10.1007/s11440-020-01135-z) 
+  - F. J. Mendez, M. A. Mendez, A. Pasculli, *The GA-cal software for the automatic calibration of soil constitutive laws: a tutorial and a user manual*, arXiv (2022). [https://doi.org/10.48550/arXiv.2211.13652](https://doi.org/10.48550/arXiv.2211.13652) 
+  
